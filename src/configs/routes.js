@@ -8,7 +8,7 @@ const AccountPage = lazy(() => import('../pages/AccountPage/AccountPage'));
 const CalendarPage = lazy(() => import('../pages/CalendarPage/CalendarPage'));
 const StatisticsPage = lazy(() => import('../pages/StatisticsPage/StatisticsPage'));
 
-export const ROUTE_PREFIX = '/project-5-frontend';
+export const ROUTE_PREFIX = '/fs-75-5-react-node-GooseTrack/';
 const RESTRICTED_REDIRECT = '/calendar'
 const PRIVATE_REDIRECT = '/login'
 
