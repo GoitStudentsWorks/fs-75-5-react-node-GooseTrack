@@ -2,7 +2,7 @@
   "name": "project-5-frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://hannatverdokhleb.github.io/project-5-frontend/",
+  "homepage": "https://goitstudentsworks.github.io/fs-75-5-react-node-GooseTrack/",
   "dependencies": {
     "@emotion/react": "^11.11.1",
     "@emotion/styled": "^11.11.0",
